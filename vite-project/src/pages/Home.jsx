@@ -25,7 +25,7 @@ function Home() {
         <br /> <br />
         {/* ✅ Agora com Link em vez de <a> */}
         <Link to="/atividade">
-          <button>Ir para Atividade</button>
+          <button>Ir para Via CEP </button>
         </Link>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
